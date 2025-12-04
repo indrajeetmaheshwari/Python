@@ -18,7 +18,7 @@ while True:
 
     if choice == 1:
         print("\nEnter Student Details :~ ")
-
+    
         student_id = int(input("\nEnter Student ID : "))
         id_exits = 0      
 
