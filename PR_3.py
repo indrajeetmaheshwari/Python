@@ -28,7 +28,7 @@ while True:
                 id_exits = 1
                 break
 
-        if id_exits == 1:
+        if id_exits == 1:   
               print("This ID already use...")
         else:
             student_name = input("Enter Student Name : ")
